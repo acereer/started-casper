@@ -34,10 +34,10 @@ The screenshot of
 ```
 make prepare
 ```
-![](imgs/2.png)
+![](imgs/21.png)
 
 The screenshot of build amd test
-![](imgs/21.png)
+![](imgs/2.png)
 The screenshot of deploying the contract to testnet and The screenshot of the deployment status:
 ![](imgs/22.png)
 ## 3. Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
